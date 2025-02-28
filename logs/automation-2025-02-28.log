@@ -1,0 +1,63 @@
+02:32:41.676 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Eclipse_workplaces\Eclipse_projects\Hybrid_Framework\OpenCart_HybridFramework\masterTestNG2.xml
+
+02:34:50.530 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Eclipse_workplaces\Eclipse_projects\Hybrid_Framework\OpenCart_HybridFramework\masterTestNG2.xml
+
+02:35:11.824 [main] INFO  testCases.TC001_AccountRegistrationTest - Starting test
+02:35:13.107 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account link
+02:35:15.963 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on registration link
+02:35:18.238 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer detials
+02:35:22.700 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+02:35:24.786 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished test case
+02:36:09.408 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Eclipse_workplaces\Eclipse_projects\Hybrid_Framework\OpenCart_HybridFramework\groupingTestNG.xml
+
+02:40:48.656 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Eclipse_workplaces\Eclipse_projects\Hybrid_Framework\OpenCart_HybridFramework\groupingTestNG.xml
+
+02:41:02.334 [main] INFO  testCases.TC001_AccountRegistrationTest - Starting test
+02:41:02.497 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account link
+02:41:05.209 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on registration link
+02:41:07.227 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer detials
+02:41:10.823 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+02:41:12.880 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished test case
+02:41:21.727 [main] INFO  testCases.TC002_LogInTest - Starting loggin test
+02:41:29.805 [main] INFO  testCases.TC002_LogInTest - Finished login test
+02:43:27.197 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Eclipse_workplaces\Eclipse_projects\Hybrid_Framework\OpenCart_HybridFramework\crossBrowserTestNG.xml
+
+02:43:36.336 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Starting test
+02:43:36.472 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account link
+02:43:42.672 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on registration link
+02:43:44.691 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer detials
+02:43:48.044 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+02:43:50.092 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Finished test case
+02:44:03.145 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Starting test
+02:44:04.091 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account link
+02:44:06.808 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on registration link
+02:44:08.812 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer detials
+02:44:39.575 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Starting test
+02:44:41.682 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account link
+02:44:46.097 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on registration link
+02:44:48.105 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Providing customer detials
+02:44:52.407 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+02:44:54.628 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Finished test case
+02:44:59.548 [TestNG-tests-3] ERROR testCases.TC001_AccountRegistrationTest - Test failed
+02:50:24.354 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Eclipse_workplaces\Eclipse_projects\Hybrid_Framework\OpenCart_HybridFramework\crossBrowserTestNG.xml
+
+02:50:54.718 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Starting test
+02:50:54.718 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Starting test
+02:50:55.002 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account link
+02:50:55.043 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account link
+02:50:59.097 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest - Test failed
+02:51:01.173 [TestNG-tests-1] ERROR testCases.TC001_AccountRegistrationTest - Test failed
+02:51:55.685 [TestNG-tests-3] INFO  testCases.TC002_LogInTest - Starting loggin test
+02:56:54.907 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Eclipse_workplaces\Eclipse_projects\Hybrid_Framework\OpenCart_HybridFramework\masterTestNG2.xml
+
+02:57:11.793 [main] INFO  testCases.TC002_LogInTest - Starting loggin test
+03:04:16.389 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Eclipse_workplaces\Eclipse_projects\Hybrid_Framework\OpenCart_HybridFramework\masterTestNG2.xml
+

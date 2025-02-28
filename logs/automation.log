@@ -1,0 +1,37 @@
+03:04:23.951 [main] INFO  testCases.TC002_LogInTest - Starting loggin test
+18:26:09.641 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Eclipse_workplaces\Eclipse_projects\Hybrid_Framework\OpenCart_HybridFramework\gridDockerTestNG.xml
+
+18:48:55.978 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Eclipse_workplaces\Eclipse_projects\Hybrid_Framework\OpenCart_HybridFramework\gridDockerTestNG.xml
+
+18:52:15.398 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Eclipse_workplaces\Eclipse_projects\Hybrid_Framework\OpenCart_HybridFramework\gridDockerTestNG.xml
+
+18:52:58.808 [main] INFO  testCases.TC002_LogInTest - Starting loggin test
+18:54:25.878 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Eclipse_workplaces\Eclipse_projects\Hybrid_Framework\OpenCart_HybridFramework\gridDockerTestNG.xml
+
+18:54:34.582 [main] INFO  testCases.TC002_LogInTest - Starting loggin test
+18:54:42.343 [main] INFO  testCases.TC002_LogInTest - Finished login test
+18:55:56.140 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Eclipse_workplaces\Eclipse_projects\Hybrid_Framework\OpenCart_HybridFramework\gridDockerTestNG.xml
+
+18:56:32.482 [main] INFO  testCases.TC002_LogInTest - Starting loggin test
+18:56:40.943 [main] INFO  testCases.TC002_LogInTest - Finished login test
+19:57:31.040 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Eclipse_workplaces\Eclipse_projects\Hybrid_Framework\OpenCart_HybridFramework\gridDockerTestNG.xml
+
+19:58:07.665 [main] INFO  testCases.TC002_LogInTest - Starting loggin test
+19:58:16.798 [main] INFO  testCases.TC002_LogInTest - Finished login test
+00:30:16.535 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Eclipse_workplaces\Eclipse_projects\Hybrid_Framework\OpenCart_HybridFramework\masterTestNG.xml
+
+00:30:42.619 [main] INFO  testCases.TC002_LogInTest - Starting loggin test
+00:30:50.684 [main] INFO  testCases.TC002_LogInTest - Finished login test
+00:33:41.147 [main] INFO  testCases.TC002_LogInTest - Starting loggin test
+00:33:48.655 [main] INFO  testCases.TC002_LogInTest - Finished login test
+01:01:07.895 [main] INFO  testCases.TC002_LogInTest - Starting loggin test
+01:01:17.868 [main] INFO  testCases.TC002_LogInTest - Finished login test
+01:06:08.716 [main] INFO  testCases.TC002_LogInTest - Starting loggin test
+01:06:16.076 [main] INFO  testCases.TC002_LogInTest - Finished login test

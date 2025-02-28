@@ -1,0 +1,57 @@
+00:00:01.904 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:00:01.926 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:00:01.926 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:00:01.927 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:00:01.927 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:00:01.930 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:00:01.931 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:00:01.931 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:00:01.931 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:00:01.933 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:00:01.933 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:00:01.935 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:00:01.935 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:00:01.935 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+00:00:01.936 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+00:00:01.946 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\AppData\Local\Temp\testng-eclipse--2051990027\testng-customsuite.xml
+
+00:00:01.965 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+00:00:03.085 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@4443ef6f: 61 ms
+00:00:03.100 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@4bb8855f: 15 ms
+00:00:03.109 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@5c92166b: 9 ms
+00:00:03.118 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6ceb7b5e: 8 ms
+00:00:03.123 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5965844d: 5 ms
+00:00:03.123 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6d4a65c6: 0 ms
+00:00:16.495 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Eclipse_workplaces\Eclipse_training\Hybrid_Framework\OpenCart_HybridFramework\masterTestNG.xml
+
+00:00:28.082 [main] INFO  testCases.TC003_LoginDDT - Starting logginDDT test
+00:00:37.861 [main] INFO  testCases.TC003_LoginDDT - Finished loginDDT test
+00:00:37.865 [main] INFO  testCases.TC003_LoginDDT - Starting logginDDT test
+00:00:46.891 [main] INFO  testCases.TC003_LoginDDT - Finished loginDDT test
+00:00:46.899 [main] INFO  testCases.TC003_LoginDDT - Starting logginDDT test
+00:00:54.621 [main] INFO  testCases.TC003_LoginDDT - Finished loginDDT test
+00:00:54.627 [main] INFO  testCases.TC003_LoginDDT - Starting logginDDT test
+00:01:03.844 [main] INFO  testCases.TC003_LoginDDT - Finished loginDDT test
+00:07:32.034 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Eclipse_workplaces\Eclipse_training\Hybrid_Framework\OpenCart_HybridFramework\masterTestNG.xml
+
+00:07:40.945 [main] INFO  testCases.TC003_LoginDDT - Starting logginDDT test
+00:07:50.271 [main] INFO  testCases.TC003_LoginDDT - Finished loginDDT test
+00:07:50.285 [main] INFO  testCases.TC003_LoginDDT - Starting logginDDT test
+00:07:59.699 [main] INFO  testCases.TC003_LoginDDT - Finished loginDDT test
+00:07:59.713 [main] INFO  testCases.TC003_LoginDDT - Starting logginDDT test
+00:08:07.505 [main] INFO  testCases.TC003_LoginDDT - Finished loginDDT test
+00:08:07.512 [main] INFO  testCases.TC003_LoginDDT - Starting logginDDT test
+00:08:16.724 [main] INFO  testCases.TC003_LoginDDT - Finished loginDDT test
+05:19:09.307 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Eclipse_workplaces\Eclipse_training\Hybrid_Framework\OpenCart_HybridFramework\masterTestNG.xml
+
+05:19:32.113 [main] INFO  testCases.TC003_LoginDDT - Starting logginDDT test
+05:19:42.544 [main] INFO  testCases.TC003_LoginDDT - Finished loginDDT test
+05:19:42.556 [main] INFO  testCases.TC003_LoginDDT - Starting logginDDT test
+05:19:51.695 [main] INFO  testCases.TC003_LoginDDT - Finished loginDDT test
+05:19:51.706 [main] INFO  testCases.TC003_LoginDDT - Starting logginDDT test
+05:19:59.401 [main] INFO  testCases.TC003_LoginDDT - Finished loginDDT test
+05:19:59.409 [main] INFO  testCases.TC003_LoginDDT - Starting logginDDT test
